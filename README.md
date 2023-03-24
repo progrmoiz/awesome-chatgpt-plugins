@@ -21,7 +21,7 @@ OpenAI has created plugins for browsing and Python code execution, which are ide
 
 - [ChatGPT's Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
 - [ChatGPT's Twilio Pluign](https://twitter.com/danielgross/status/1639040289816866818)
-- (Langchain to ChatGPT's Retrieval Plugin)[https://gist.github.com/hwchase17/1429e54879f0249f0a258382d8bd744c]
+- [Langchain to ChatGPT's Retrieval Plugin](https://gist.github.com/hwchase17/1429e54879f0249f0a258382d8bd744c)
 
 
 ## Initial Plugins
