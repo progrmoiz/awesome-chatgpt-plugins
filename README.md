@@ -26,3 +26,6 @@ OpenAI has created plugins for browsing and Python code execution, which are ide
 ## Initial Plugins
 The following plugins have been created by some of the first developers to be invited off the ChatGPT plugin waitlist:
 ![Fr7ZBwdakAAa0Sj](https://user-images.githubusercontent.com/33980210/227595018-02ffa976-efc8-43e2-a417-d3942ad6467a.jpeg)
+
+## License
+CC-0
