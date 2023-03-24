@@ -10,7 +10,7 @@ For those interested in creating their own plugins, we've included a guide to ge
 
 We hope you find this collection useful and we look forward to seeing what you create with ChatGPT plugins!
 
-## Twitter Updates
+## Twitter Announcements 
 - [Starting rollout of ChatGPT plugins](https://twitter.com/sama/status/1638951865319821312) by Sam Altman
 - [Plugins for summarizing the response to a launch](https://twitter.com/gdb/status/1638986918947082241) by Greg Brockman
 - [Initial support for ChatGPT plugins](https://twitter.com/gdb/status/1638949234681712643) by Greg Brockman
@@ -20,7 +20,7 @@ OpenAI has created plugins for browsing and Python code execution, which are ide
 
 - [ChatGPT's Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
 - [ChatGPT's Twilio Pluign](https://twitter.com/danielgross/status/1639040289816866818)
-- [Langchain to ChatGPT's Retrieval Plugin)[https://gist.github.com/hwchase17/1429e54879f0249f0a258382d8bd744c]
+- (Langchain to ChatGPT's Retrieval Plugin)[https://gist.github.com/hwchase17/1429e54879f0249f0a258382d8bd744c]
 
 
 ## Initial Plugins
