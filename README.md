@@ -14,6 +14,7 @@ We hope you find this collection useful and we look forward to seeing what you c
 - [Starting rollout of ChatGPT plugins](https://twitter.com/sama/status/1638951865319821312) by Sam Altman
 - [Plugins for summarizing the response to a launch](https://twitter.com/gdb/status/1638986918947082241) by Greg Brockman
 - [Initial support for ChatGPT plugins](https://twitter.com/gdb/status/1638949234681712643) by Greg Brockman
+- [Zapier plugin launch for ChatGPT](https://twitter.com/wadefoster/status/1638958299935801344)
 
 ## Open source Plugin
 OpenAI has created plugins for browsing and Python code execution, which are ideal for data science.
